@@ -17,7 +17,7 @@ I have used particles.js for the background and GSAP for smooth website animatio
 
 ## Feedback
 
-If you have any feedback, please feel free to reach me out at shubhakhadgi007@gmail.com
+If you have any feedback, please feel free to reach me out at shubhakhadgi.work@gmail.com
 
 
 ## Author
