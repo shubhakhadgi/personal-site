@@ -1,6 +1,6 @@
 # MyPersonal_Site
 This is Shubha's official website.
-* Link to my site : https://shubhakhadgi.com.np
+* Link to my site : https://shubha-first-portfolio.vercel.app/
 
 # Screenshots
 I have used particles.js for the background and GSAP for smooth website animation.
@@ -22,4 +22,4 @@ If you have any feedback, please feel free to reach me out at shubhakhadgi007@gm
 
 ## Author
 
-- [@shubhaaaaaaa](https://www.github.com/shubhaaaaaaa)
+- [@shubhakhadgi](https://www.github.com/shubhakhadgi)
